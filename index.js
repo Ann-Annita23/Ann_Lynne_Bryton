@@ -79,5 +79,4 @@ function buildFinalReport(report, average, passed, failed) {
   return report;
 }
 
-console.log(calculateTotalScore(students)); 
-// Expected: 185
+console.log(calculateTotalScore(students));// expected answer 185
